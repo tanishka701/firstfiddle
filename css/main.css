@@ -1,0 +1,91 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.main{
+	border: 1px solid;
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+	background-color: #fffccd;
+}
+.topbar{
+	height: 50px;
+	background: #a20000;
+	line-height: 50px;
+	color: white;
+}
+.space{
+	width: 950px;
+	margin:auto;
+}
+.phone{
+	float: right;
+}
+.email{
+	display: inline;
+}
+.search1{
+	float: right;
+	padding-right: 10px;
+	padding-top: 104px;
+}
+.header{
+	border-bottom: 1px solid;
+	height: 150px;
+}
+.form{
+		height: 40px;
+		background-color: black;
+}
+ul li{
+			display: inline-block;
+			background: black;
+			width: 118px;
+			height: 37px;
+			color: white;
+			text-align: center;
+    		line-height: 37px;
+    		font-weight: bold;
+		}
+ul li a{
+		text-decoration: none;
+		color: white;
+		}
+ul li:hover{
+			background: purple;
+		}	
+.para{
+	float: right;
+	text-align: justify;
+	padding-right: 20px;
+    padding-left: 80px;
+}
+.divi{
+			border: 1px solid;
+			height: 580px;
+			width: 291px;
+			float: left;
+			margin-left: 71px;
+			padding: 10px;
+			margin: 10px;
+		}
+		.one{
+			height: 20px;
+			color: black;
+			text-align: center;
+			font-weight: bold;
+
+		}
+		.two{
+			text-align: justify;
+			padding-left: 5px;
+			padding-right: 5px;
+	}
+.photo{
+	border: 1px solid;
+	height: 130px;
+	width: 280px;
+	
+}
